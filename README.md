@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
 
   <head>
@@ -10,13 +10,11 @@
     <table cellspacing='20'>
       <tr>
         <td><h1><strong>HELLO MAH DEAR BESTIE</strong></h1>
-        <p><em>open this <a href=https://www.youtube.com/watch?v=WtD22p3ihUI>bestie</a></em></p>
         <p>I made this thing to say UR MAH BESTIE and IF YOU LEAVE MEH IM GOING TO KILL U:_)</p>
         <p>And there are some memes and images i found at 2 am</p>
         <p>All i wanted to say is that...</p>
         <p><h6>Watch all the things that i put and then youl going to see what I wanted to say:)</h6></p>
       </table>
-      <table>
         <thead>
           <tbody>
           <tr>
