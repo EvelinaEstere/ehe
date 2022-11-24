@@ -1,11 +1,6 @@
 
 <html lang="en" dir="ltr">
 
-  <head>
-    <meta charset="utf-8">
-    <title>FOR MAH BESTIE ONLY>:)</title>
-  </head>
-
 <body style="background-color: #cfe3fa;">
     <table cellspacing='20'>
       <tr>
@@ -16,11 +11,6 @@
         <p><h6>Watch all the things that i put and then youl going to see what I wanted to say:)</h6></p>
       </table>
         <thead>
-          <tbody>
-          <tr>
-
-          </tr>
-          </tbody>
           <tr>
 
           </tr>
