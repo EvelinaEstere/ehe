@@ -53,16 +53,5 @@
           <p><img src="https://imgix.ranker.com/user_node_img/50121/1002413885/original/1002413885-photo-u1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&w=375" alt="why"></p>
           <p><img src="https://img.wattpad.com/b0b21e78e19376dc36c1cdb697d0c746cc11757b/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f3670317169336d6d6272373275673d3d2d313438342e3136393161653466376364323664346536373738323035323037362e6a7067?s=fit&w=720&h=720" alt="ikr"></p>
         </tr>
-        <tr>
-          <p>All I wanted to say is that ur mah bestie for life</p>
-          <p>and</p>
-          <p>if u need some depressing or smt music just ckick here</p>
-          <p><em> </em></p>
-        </tr>
-        <p><em><a href=https://www.youtube.com/watch?v=1ePsJtDibTE>:)</a></em></p>
-        <p><em><a href=https://www.youtube.com/watch?v=FKRHsMGP3vQ>:_) (this aint even music)</a></em></p>
-        <p><em><a href=https://www.youtube.com/watch?v=ZyjvpijLZMY>:( (same with this one)</a></em></p>
-        <p><em><a href=https://www.youtube.com/watch?v=OA5rzAxrg4U>:( (sorry)</a></em></p>
-      </table>
   </body>
 </html>
